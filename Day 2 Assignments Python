@@ -1,0 +1,17 @@
+Que. 1) HOW TO UPLOAD ASSIGNMENTS IN GIT HUB (DEMO)
+      Steps of uploading assignments in github
+      1) First go to github.com
+      2) Creating Account on Github and sign in 
+      3)After sign in go to the + sign and create new Repository
+      4) github can done in two ways GUI and Terminal.
+      5) We are using GUI
+      6) then we are giving any name of our repository
+      7) after that we are added description (its a optional thing)
+      8)then make it public
+      9) then  click on intiallize this repositorywith a README
+      10) then Creating repository is done
+      11) for downloading our jupyter notebook go to juptyer notebook and click on download button. and it download it where u want
+      12)then go to add file and create new file or uload file then selecting the file.
+      13)after selecting file click on commit to file for submiting the files.
+      14)then our assignments files is uloaded sucessfully.
+
